@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--Color-->
+    <color name="Color1">#afdade</color>
+    <color name="Color2">#ea1a2c</color>
+    <color name="Color3">#FFFFFF</color>
+    <color name="Color4">#000000</color>
+    <color name="Color5">#7e9d37</color>
+
+    <!--String-->
+    <string name="btnT1Text">INICIAR PEDIDO</string>
+    <string name="Slogan">Vencedora no sabor, a cada fatia, mais amor!</string>
+    <string name="SelecaoPizza">Seleção de Pizza (Sabores)</string>
+    <string name="Instrucao">Selecione a(as) pizza que deseja:</string>
+    <string name="cbSabor1">Muçarela - Muçarela, tomate e orégano sobre molho de tomate.</string>
+    <string name="cbSabor2">4 Queijos - Blend de queijos muçarela, provolone, gorgonzola e parmesão.</string>
+    <string name="cbSabor3">Calabresa -  Calabresa fatiada, cebola e azeitona.</string>
+    <string name="cbSabor4">Frango com Catupiry - Frango desfiado e catupiry genuíno, cobertos com milho e orégano.</string>
+    <string name="cbSabor5">Carne Seca - Carne seca desfiada, coberta com queijo coalho e cebola roxa.</string>
+    <string name="cbSabor6">Portuguesa - Presunto, cebola, pimentão, ovos, ervilha e azeitonas verdes.</string>
+    <string name="cbSabor7">Bacon - Bacon crocante, coberto com muçarela e cebola.</string>
+    <string name="cbSabor8">Vegetariana - Mix de legumes, cogumelos, brócolis, abobrinha e tomate.</string>
+    <string name="btnAddAoCarrinho">Adicionar ao Carrinho</string>
+    <string name="T3Titulo">Seleção Tamanho e Pagamento</string>
+    <string name="TamanhoPizza">Selecione o tamanho da pizza desejado:</string>
+    <string name="Tamanho1">Pequena ... 27,90</string>
+    <string name="Tamanho2">Média ... 37,90</string>
+    <string name="Tamanho3">Grande ... 47,90</string>
+    <string name="MetodoPagamento">Selecione o metódo de pagamento desejado:</string>
+    <string name="Pagamento1">Dinheiro</string>
+    <string name="Pagamento2">Cartão de Débito</string>
+    <string name="Pagamento3">Cartão de Crédito</string>
+    <string name="Pagamento4">Pix</string>
+    <string name="btnPagar">Pagar</string>
+    <string name="T4Titulo">Resumo Do Seu Pedido</string>
+    <string name="Resumo">Resumo</string>
+    <string name="T4Mensagem">Obrigada por confiar no nosso trabalho! Agora é só aguardar que já já você estará saboreando as famosas pizzas da Pizzaria VckciV!!</string>
+
+</resources>
