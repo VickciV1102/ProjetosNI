@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--Colors-->
+    <color name="Color1">#fb9f10</color>
+    <color name="Color2">#FFFFFF</color>
+    <color name="Color3">#1a9a65</color>
+    <color name="Color4">#000000</color>
+    <color name="Color5">#343434</color>
+
+
+    <!--String-->
+    <string name="T1ComecarPedido">COMEÇAR PEDIDO</string>
+    <string name="T2Cardapio">CARDAPIO LACHE-FACIL</string>
+    <string name="T2escolherlanche">Escolha seu lanche:</string>
+    <string name="T2Produto1">X-Burguer - R$32,00</string>
+    <string name="T2Produto2">Hot Dog - R$18,00</string>
+    <string name="T2Produto3">Sanduiche - R$22,90</string>
+    <string name="T2Produto4">Batata Frita - R$12,00</string>
+    <string name="T2descricao1">Clássico com um toque fresco! Pão macio, hambúrguer suculento 100% bovino, queijo derretido, alface crocante, tomate fresquinho e um toque especial de maionese da casa. Sabor na medida certa! </string>
+    <string name="T2descricao2"> Delicioso e completo! Pão fofinho, salsicha macia, milho, ervilha, purê de batata, ketchup, mostarda, maionese e batata palha crocante por cima. Uma explosão de sabores em cada mordida!  </string>
+    <string name="T2descricao3">Leve, saboroso e refrescante! Pão de forma integral, peito de frango desfiado, alface fresquinha, tomate em rodelas, cenoura ralada e um toque cremoso de maionese. Ideal para quem busca uma opção mais leve sem abrir mão do sabor!   </string>
+    <string name="T2descricao4">Crocância garantida! Batatas douradinhas por fora, macias por dentro e temperadas na medida certa. Perfeitas como acompanhamento ou pra saborear sozinhas. Vai uma porção aí? </string>
+    <string name="T2Nome">Digite seu nome:</string>
+    <string name="T2Exemplo">Ex: Vitoria Leticia</string>
+    <string name="T2ConfirmarPedido">Confirmar Pedido</string>
+    <string name="T2Comprar">Comprar</string>
+
+    <string name="T3Resultado">Olá fulano, seu pedido foi realizado com sucesso</string>
+    <string name="T3ResumoPedido">Resumo do Pedido</string>
+    <string name="T3Lanche">Lanche</string>
+    <string name="T3TextTotal">Total</string>
+    <string name="T3Voltar">Voltar</string>
+
+</resources>
+
