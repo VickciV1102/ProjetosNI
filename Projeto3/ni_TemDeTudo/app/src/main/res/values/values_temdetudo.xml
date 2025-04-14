@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--Colors-->
+    <color name="Color1">#000000</color>
+    <color name="Color2">#d0f6ff</color>
+    <color name="Color3">#FFFFFF</color>
+    <color name="color4">#fd4c00</color>
+    <color name="color5">#012437</color>
+    <color name="color6">#c8c8c8</color>
+    <!--String-->
+    <string name="T1btnIniciar">INICIAR CADASTRO</string>
+    <string name="T2btnCadastrar">CADASTRAR</string>
+    <string name="T2Digitenome">Digite seu nome</string>
+    <string name="T2FormularioCadastro">FORMULÁRIO DE CADASTRO</string>
+    <string name="T3btnVoltar">Voltar</string>
+    <string name="T3Boasvindas">Boas-Vindas</string>
+
+
+
+</resources>
