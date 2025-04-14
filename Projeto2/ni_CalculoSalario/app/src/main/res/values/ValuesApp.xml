@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--Colors-->
+    <color name="Color1">#000000</color>
+    <color name="Color2">#FFFFFF</color>
+    <color name="Color3">#808080</color>
+
+    <!--String-->
+    <string name="TextTitulo1">Cálculo do Salário</string>
+    <string name="TextTitulo2">Digite seu Salário (R$)</string>
+    <string name="TextTitulo3">Qual será o percentual?</string>
+    <string name="Percentual1">40%</string>
+    <string name="Percentual2">45%</string>
+    <string name="Percentual3">50%</string>
+    <string name="btnSalario">Mostrar novo salário</string>
+    <string name="TextResultado">Resultado</string>
+    <string name="TextValor">Digite o valor aqui</string>
+    <string name="btnIniciar">INICIAR</string>
+    <string name="btnLimpar">LIMPAR</string>
+</resources>
