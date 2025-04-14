@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--Colors-->
+    <color name="Color1">#FFFFFF</color>
+    <color name="Color2">#1C1C1C</color>
+    <color name="Color3">#4F4F4F</color>
+    <color name="Color4">#C0C0C0</color>
+    <color name="Color5">#8B0000</color>
+
+    <!--String-->
+    <string name="TextTitulo1">Sistema de Compras</string>
+    <string name="TextTitulo2">Escolha o seu produto</string>
+    <string name="TextProduto1">Arroz 1 Kg (R$ 2,69)</string>
+    <string name="TextProduto2">Leite longa vida (R$ 2,70)</string>
+    <string name="TextProduto3">Carne Friboi (R$ 16,70)</string>
+    <string name="TextProduto4">Feijão carioquinha 1 Kg (R$ 3,38)</string>
+    <string name="TextProduto5">Refrigerante coca-cola 2 litros (R$3,00)</string>
+    <string name="btnTotal">TOTAL DA COMPRA</string>
+    <string name="TextResultado">Resultado</string>
+
+</resources>
