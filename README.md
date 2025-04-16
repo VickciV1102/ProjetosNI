@@ -15,6 +15,8 @@
 - Lista com 5 produtos e seus preços.<br>
 - Interface interativa utilizando CheckBox para seleção dos itens.<br>
 - Cálculo automático do valor total das compras selecionadas.<br>
+📲 <a href="https://github.com/VickciV1102/ProjetosNI/blob/main/Projeto1/App_Projeto1.apk" target="_blank">Baixar APK</a><br>
+🗂️ <a href="https://github.com/VickciV1102/ProjetosNI/blob/main/Projeto1/ni_SistemaDeCompras.zip" target="_blank">Baixar Pasta Zip</a><br>
 
 # Calculadora de Reajuste Salarial
 ## Descrição:
@@ -23,6 +25,8 @@
 - Entrada para o salário atual.<br>
 - Seleção do percentual de aumento.<br>
 - Exibição do novo salário reajustado.<br>
+📲 <a href="https://github.com/VickciV1102/ProjetosNI/blob/main/Projeto2/app-debug.apk" target="_blank">Baixar APK</a><br>
+🗂️ <a href="https://github.com/VickciV1102/ProjetosNI/blob/main/Projeto2/ni_CalculoSalario.zip" target="_blank">Baixar Pasta Zip</a><br>
 
 # App de Cadastro de Clientes - Tem de Tudo
 ## Descrição:
@@ -31,6 +35,8 @@
 - Activity 1: Tela de boas-vindas com a logomarca e botão para cadastro.<br>
 - Activity 2: Formulário de cadastro com campo para o nome do cliente.<br>
 - Activity 3: Tela de confirmação personalizada com o nome do cliente e imagem de "Cadastro Completo".<br>
+📲 <a href="https://github.com/VickciV1102/ProjetosNI/blob/main/Projeto3/app-debug.apk" target="_blank">Baixar APK</a><br>
+🗂️ <a href="https://github.com/VickciV1102/ProjetosNI/blob/main/Projeto3/ni_TemDeTudo.zip" target="_blank">Baixar Pasta Zip</a><br>
 
 # Registro de Pedidos para Lanchonete - Lanche Fácil
 ## Descrição:
@@ -39,6 +45,8 @@
 - Activity 1: Tela inicial com a logomarca e botão para iniciar o pedido.<br>
 - Activity 2: Formulário para selecionar o lanche e inserir o nome do cliente.<br>
 - Activity 3: Resumo do pedido com nome do cliente e lanche escolhido.<br>
+📲 <a href="https://github.com/VickciV1102/ProjetosNI/blob/main/Projeto4/app-debug.apk" target="_blank">Baixar APK</a><br>
+🗂️ <a href="https://github.com/VickciV1102/ProjetosNI/blob/main/Projeto4/ni_LancheFacil.zip" target="_blank">Baixar Pasta Zip</a><br>
 
 # Simulador de Pedido de Pizzaria
 ## Descrição:
@@ -47,3 +55,5 @@
 - Activity 1: Seleção do tipo de pizza via CheckBox.<br>
 - Activity 2: Escolha do tamanho e método de pagamento via RadioButtons.<br>
 - Activity 3: Exibição do resumo com detalhes do pedido e valor total.<br>
+📲 <a href="https://github.com/VickciV1102/ProjetosNI/blob/main/Projeto5/app-debug.apk" target="_blank">Baixar APK</a><br>
+🗂️ <a href="https://github.com/VickciV1102/ProjetosNI/blob/main/Projeto5/ni_Pizzaria.zip" target="_blank">Baixar Pasta Zip</a><br>
